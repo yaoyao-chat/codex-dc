@@ -1,0 +1,13 @@
+title: 'Codex代充 2026：充的是什么、怎么判断靠谱、多少钱'
+description: 'Codex代充（2026-11）：代充其实是代开 Plus/Pro 会员，四种卖法区别、付钱前 8 问、风险；国内可在瑶瑶ai训练师商城开 Plus ¥129、Pro 10X ¥699（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/codex-dc"
